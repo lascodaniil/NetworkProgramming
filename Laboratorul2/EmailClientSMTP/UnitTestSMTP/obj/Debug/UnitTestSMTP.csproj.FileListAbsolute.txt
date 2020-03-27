@@ -1,0 +1,13 @@
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\UnitTestSMTP.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\UnitTestSMTP.pdb
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\obj\Debug\UnitTestSMTP.csprojAssemblyReference.cache
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\obj\Debug\UnitTestSMTP.csproj.CopyComplete
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\obj\Debug\UnitTestSMTP.dll
+D:\Universitate\PR\Laborator4\EmailClientSMTP\UnitTestSMTP\obj\Debug\UnitTestSMTP.pdb
