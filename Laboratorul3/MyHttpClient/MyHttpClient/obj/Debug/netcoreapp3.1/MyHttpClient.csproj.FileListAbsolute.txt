@@ -1,0 +1,24 @@
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.csprojAssemblyReference.cache
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.AssemblyInfoInputs.cache
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.AssemblyInfo.cs
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.exe
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.deps.json
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.runtimeconfig.json
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.runtimeconfig.dev.json
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.dll
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.pdb
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.dll
+Z:\Visual Studio Project\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.pdb
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.exe
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.deps.json
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.runtimeconfig.json
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.runtimeconfig.dev.json
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.dll
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\bin\Debug\netcoreapp3.1\MyHttpClient.pdb
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.csprojAssemblyReference.cache
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.AssemblyInfoInputs.cache
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.AssemblyInfo.cs
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.dll
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.pdb
+C:\Users\Daniil\Desktop\MyHttpClient\MyHttpClient\obj\Debug\netcoreapp3.1\MyHttpClient.genruntimeconfig.cache

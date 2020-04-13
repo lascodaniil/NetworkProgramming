@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="ro" xml:lang="ro">
+<head>
+    <title>Note - Daniil Lasco</title>
+    <link rel="shortcut icon" href="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/theme/1578864926/favicon" />
+	<link rel="apple-touch-icon-precomposed" href="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/theme/1578864926/apple-touch-icon" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Note - Daniil Lasco" />
+<link rel="stylesheet" type="text/css" href="https://moodle.ati.utm.md/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://moodle.ati.utm.md/theme/styles.php/_s/aardvark/1578864926/all" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/moodle.ati.utm.md","sesskey":"daCBcR5cpW","loadingicon":"https:\/\/moodle.ati.utm.md\/theme\/image.php\/_s\/aardvark\/core\/1578864926\/i\/loading_small","themerev":"1578864926","slasharguments":1,"theme":"aardvark","jsrev":"1578864926","admin":"admin","svgicons":false};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''};if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else me.path=component+'/'+component+'.'+me.type};
+YUI_config = {"debug":false,"base":"https:\/\/moodle.ati.utm.md\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/moodle.ati.utm.md\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/moodle.ati.utm.md\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/moodle.ati.utm.md\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/moodle.ati.utm.md\/theme\/yui_combo.php?m\/1578864926\/","combine":true,"comboBase":"https:\/\/moodle.ati.utm.md\/theme\/yui_combo.php?","ext":false,"root":"m\/1578864926\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-dock":{"requires":["base","node","event-custom","event-mouseenter","event-resize","escape","moodle-core-dock-loader","moodle-core-event"]},"moodle-core-dock-loader":{"requires":["escape"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-formautosubmit":{"requires":["base","event-key"]},"moodle-core_availability-form":{"requires":["base","node","event","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-calendar-info":{"requires":["base","node","event-mouseenter","event-key","overlay","moodle-calendar-info-skin"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-toolboxes":{"requires":["node","base","event-key","node","io","moodle-course-coursebase","moodle-course-util"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-passwordunmask":{"requires":["node","base"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-showadvanced":{"requires":["node","base","selector-css3"]},"moodle-core_message-messenger":{"requires":["escape","handlebars","io-base","moodle-core-notification-ajaxexception","moodle-core-notification-alert","moodle-core-notification-dialogue","moodle-core-notification-exception"]},"moodle-core_message-deletemessage":{"requires":["node","event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-qbankmanager":{"requires":["node","selector-css3"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-qtype_ddimageortext-form":{"requires":["moodle-qtype_ddimageortext-dd","form_filepicker"]},"moodle-qtype_ddimageortext-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-qtype_ddmarker-form":{"requires":["moodle-qtype_ddmarker-dd","form_filepicker","graphics","escape"]},"moodle-qtype_ddmarker-dd":{"requires":["node","event-resize","dd","dd-drop","dd-constrain","graphics"]},"moodle-qtype_ddwtos-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_bigbluebuttonbn-modform":{"requires":["base","node"]},"moodle-mod_bigbluebuttonbn-imports":{"requires":["base","node"]},"moodle-mod_bigbluebuttonbn-broker":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_bigbluebuttonbn-recordings":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_bigbluebuttonbn-rooms":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-quizquestionbank":{"requires":["base","event","node","io","io-form","yui-later","moodle-question-qbankmanager","moodle-core-notification-dialogue"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-randomquestion":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-util":{"requires":["node"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_html-button":{"requires":["moodle-editor_atto-plugin","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/moodle.ati.utm.md\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/moodle.ati.utm.md\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1578864926\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/moodle.ati.utm.md\/lib\/javascript.php\/1578864926\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/moodle.ati.utm.md\/lib\/javascript.php\/1578864926\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Fonts -->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' /> 
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type='text/css' />
+</head>
+
+
+<body  id="page-grade-report-overview-index" class="format-site  path-grade path-grade-report path-grade-report-overview dir-ltr lang-ro yui-skin-sam yui3-skin-sam moodle-ati-utm-md pagelayout-standard course-1 context-15098 has-region-side-pre used-region-side-pre has-region-side-post empty-region-side-post side-pre-only">
+
+<div class="skiplinks"><a class="skip" href="#maincontent">Salt la conţinutul principal</a></div>
+<script type="text/javascript" src="https://moodle.ati.utm.md/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js&amp;rollup/1578864926/mcore-min.js"></script><script type="text/javascript" src="https://moodle.ati.utm.md/lib/javascript.php/1578864926/lib/javascript-static.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+<header role="banner" class="navbar navbar-fixed-top">
+    <nav role="navigation" class="navbar-inner">
+        <div class="container-fluid" >
+		
+		<a class="brand" href="https://moodle.ati.utm.md"><span class="shortname">ISA e-Learning</span></a>
+		
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+			    <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+			
+            <div class="usermenu"><div id="action-menu-0" class="moodle-actionmenu nowrap-items" data-enhance="moodle-core-actionmenu"><ul id="action-menu-0-menubar" class="menubar" role="menubar"><li role="presentation"><a class="toggle-display textmenu" title="" id="action-menu-toggle-0" role="menuitem" href="#"><span class="userbutton"><span class="usertext">Daniil Lasco</span><span class="avatars"><span class="avatar current"><img src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/u/f2" alt="Imaginea Daniil Lasco" title="Imaginea Daniil Lasco" class="userpicture defaultuserpic" width="35" height="35" role="presentation" /></span></span></span><b class="caret"></b></a></li></ul><ul id="action-menu-0-menu" class="menu  align-tr-br" data-rel="menu-content" aria-labelledby="action-menu-toggle-0" role="menu" data-align="tr-br"><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="mymoodle,admin" href="https://moodle.ati.utm.md/my/" aria-labelledby="actionmenuaction-1"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/course" /><span class="menu-action-text" id="actionmenuaction-1">My Moodle</span></a></li><li role="presentation"><span class="filler">&nbsp;</span></li><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="profile,moodle" href="https://moodle.ati.utm.md/user/profile.php?id=3882" aria-labelledby="actionmenuaction-2"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/user" /><span class="menu-action-text" id="actionmenuaction-2">Profil</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="grades,grades" href="https://moodle.ati.utm.md/grade/report/overview/index.php" aria-labelledby="actionmenuaction-3"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/t/grades" /><span class="menu-action-text" id="actionmenuaction-3">Note</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="messages,message" href="https://moodle.ati.utm.md/message/index.php" aria-labelledby="actionmenuaction-4"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/t/message" /><span class="menu-action-text" id="actionmenuaction-4">Mesaje</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="preferences,moodle" href="https://moodle.ati.utm.md/user/preferences.php" aria-labelledby="actionmenuaction-5"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/t/preferences" /><span class="menu-action-text" id="actionmenuaction-5">Preferinţe</span></a></li><li role="presentation"><span class="filler">&nbsp;</span></li><li role="presentation"><a class="icon menu-action" role="menuitem" data-title="logout,moodle" href="https://moodle.ati.utm.md/login/logout.php?sesskey=daCBcR5cpW" aria-labelledby="actionmenuaction-6"><img class="iconsmall" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/a/logout" /><span class="menu-action-text" id="actionmenuaction-6">Ieşire</span></a></li></ul></div></div>			            <div class="nav-collapse collapse navbar-responsive-collapse">
+                <ul class="nav"><li class="dropdown langmenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" title="Limba">Română ‎(ro)‎<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="English ‎(en)‎" href="https://moodle.ati.utm.md/grade/report/overview/index.php?id=1&amp;userid=3882&amp;lang=en">English ‎(en)‎</a></li><li><a title="Français ‎(fr)‎" href="https://moodle.ati.utm.md/grade/report/overview/index.php?id=1&amp;userid=3882&amp;lang=fr">Français ‎(fr)‎</a></li><li><a title="Română ‎(ro)‎" href="https://moodle.ati.utm.md/grade/report/overview/index.php?id=1&amp;userid=3882&amp;lang=ro">Română ‎(ro)‎</a></li><li><a title="Русский ‎(ru)‎" href="https://moodle.ati.utm.md/grade/report/overview/index.php?id=1&amp;userid=3882&amp;lang=ru">Русский ‎(ru)‎</a></li></ul></ul>                <ul class="nav pull-right">
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+ 
+	</header>
+
+<div class="container-fluid clearfix">    <nav class="breadcrumb-button"></nav><span class="accesshide" id="navbar-label">Cale pagină</span><nav aria-labelledby="navbar-label"><ul class="breadcrumb"><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://moodle.ati.utm.md/"><span itemprop="title">Pagina principală</span></a></span> <span class="divider"> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> </span></li><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://moodle.ati.utm.md/my/"><span itemprop="title">Pagina mea</span></a></span> <span class="divider"> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> </span></li><li><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://moodle.ati.utm.md/grade/report/overview/index.php"><span itemprop="title">Note</span></a></span></li></ul></nav>
+</div>
+<div id="page" class="container-fluid clearfix">
+
+    <div id="page-content" class="row-fluid">
+        <div id="region-bs-main-and-pre" class="span9">
+            <div class="row-fluid">
+                <section id="region-main" class="span8 pull-right">
+                    <span class="notifications" id="user-notifications"></span><div role="main"><span id="maincontent"></span><div class="no-overflow"><table cellspacing="0" id="overview-grade" class="flexible boxaligncenter generaltable"><thead><tr><th class="header c0" scope="col">Nume curs<div class="commands"></div></th><th class="header c1" scope="col">Notă<div class="commands"></div></th></tr></thead><tbody><tr class="" id="grade-report-overview-3882_r0"><td class="cell c0" id="grade-report-overview-3882_r0_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=166&amp;user=3882">Tehnologii Web</a></td><td class="cell c1" id="grade-report-overview-3882_r0_c1">100,00</td></tr><tr class="" id="grade-report-overview-3882_r1"><td class="cell c0" id="grade-report-overview-3882_r1_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=41&amp;user=3882">Analiza şi proiectarea algoritmilor</a></td><td class="cell c1" id="grade-report-overview-3882_r1_c1">-</td></tr><tr class="" id="grade-report-overview-3882_r2"><td class="cell c0" id="grade-report-overview-3882_r2_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=54&amp;user=3882">Programarea Pilotată de Evenimente</a></td><td class="cell c1" id="grade-report-overview-3882_r2_c1">80,00</td></tr><tr class="" id="grade-report-overview-3882_r3"><td class="cell c0" id="grade-report-overview-3882_r3_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=160&amp;user=3882">Programarea aplicațiilor mobile</a></td><td class="cell c1" id="grade-report-overview-3882_r3_c1">-</td></tr><tr class="" id="grade-report-overview-3882_r4"><td class="cell c0" id="grade-report-overview-3882_r4_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=90&amp;user=3882">Programarea în Reţea</a></td><td class="cell c1" id="grade-report-overview-3882_r4_c1">-</td></tr><tr class="" id="grade-report-overview-3882_r5"><td class="cell c0" id="grade-report-overview-3882_r5_c0"><a href="https://moodle.ati.utm.md/course/user.php?mode=grade&amp;id=14&amp;user=3882">Prelucrarea Semnalelor (automatică)</a></td><td class="cell c1" id="grade-report-overview-3882_r5_c1">-</td></tr><h3>Cursurile la care particip</h3><br /><tr class="emptyrow" id="grade-report-overview-3882_r6"><td class="cell c0" id="grade-report-overview-3882_r6_c0"></td><td class="cell c1" id="grade-report-overview-3882_r6_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r7"><td class="cell c0" id="grade-report-overview-3882_r7_c0"></td><td class="cell c1" id="grade-report-overview-3882_r7_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r8"><td class="cell c0" id="grade-report-overview-3882_r8_c0"></td><td class="cell c1" id="grade-report-overview-3882_r8_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r9"><td class="cell c0" id="grade-report-overview-3882_r9_c0"></td><td class="cell c1" id="grade-report-overview-3882_r9_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r10"><td class="cell c0" id="grade-report-overview-3882_r10_c0"></td><td class="cell c1" id="grade-report-overview-3882_r10_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r11"><td class="cell c0" id="grade-report-overview-3882_r11_c0"></td><td class="cell c1" id="grade-report-overview-3882_r11_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r12"><td class="cell c0" id="grade-report-overview-3882_r12_c0"></td><td class="cell c1" id="grade-report-overview-3882_r12_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r13"><td class="cell c0" id="grade-report-overview-3882_r13_c0"></td><td class="cell c1" id="grade-report-overview-3882_r13_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r14"><td class="cell c0" id="grade-report-overview-3882_r14_c0"></td><td class="cell c1" id="grade-report-overview-3882_r14_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r15"><td class="cell c0" id="grade-report-overview-3882_r15_c0"></td><td class="cell c1" id="grade-report-overview-3882_r15_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r16"><td class="cell c0" id="grade-report-overview-3882_r16_c0"></td><td class="cell c1" id="grade-report-overview-3882_r16_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r17"><td class="cell c0" id="grade-report-overview-3882_r17_c0"></td><td class="cell c1" id="grade-report-overview-3882_r17_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r18"><td class="cell c0" id="grade-report-overview-3882_r18_c0"></td><td class="cell c1" id="grade-report-overview-3882_r18_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r19"><td class="cell c0" id="grade-report-overview-3882_r19_c0"></td><td class="cell c1" id="grade-report-overview-3882_r19_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r20"><td class="cell c0" id="grade-report-overview-3882_r20_c0"></td><td class="cell c1" id="grade-report-overview-3882_r20_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r21"><td class="cell c0" id="grade-report-overview-3882_r21_c0"></td><td class="cell c1" id="grade-report-overview-3882_r21_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r22"><td class="cell c0" id="grade-report-overview-3882_r22_c0"></td><td class="cell c1" id="grade-report-overview-3882_r22_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r23"><td class="cell c0" id="grade-report-overview-3882_r23_c0"></td><td class="cell c1" id="grade-report-overview-3882_r23_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r24"><td class="cell c0" id="grade-report-overview-3882_r24_c0"></td><td class="cell c1" id="grade-report-overview-3882_r24_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r25"><td class="cell c0" id="grade-report-overview-3882_r25_c0"></td><td class="cell c1" id="grade-report-overview-3882_r25_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r26"><td class="cell c0" id="grade-report-overview-3882_r26_c0"></td><td class="cell c1" id="grade-report-overview-3882_r26_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r27"><td class="cell c0" id="grade-report-overview-3882_r27_c0"></td><td class="cell c1" id="grade-report-overview-3882_r27_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r28"><td class="cell c0" id="grade-report-overview-3882_r28_c0"></td><td class="cell c1" id="grade-report-overview-3882_r28_c1"></td></tr><tr class="emptyrow" id="grade-report-overview-3882_r29"><td class="cell c0" id="grade-report-overview-3882_r29_c0"></td><td class="cell c1" id="grade-report-overview-3882_r29_c1"></td></tr></tbody></table></div></div>                </section>
+                <aside id="block-region-side-pre" class="span4 desktop-first-column block-region" data-blockregion="side-pre" data-droptarget="1"><a class="skip skip-block" id="fsb-1" href="#sb-1">Omite Meniu principal</a><div id="inst1845" class="block_navigation  block" role="navigation" data-block="navigation" data-instanceid="1845" aria-labelledby="instance-1845-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-1845-header">Meniu principal</h2></div></div><div class="content"><ul class="block_tree list" role="tree" data-ajax-loader="block_navigation/nav_loader"><li class="type_unknown depth_1 contains_branch" aria-labelledby="label_1_1"><p class="tree_item branch canexpand navigation_node" role="treeitem" aria-expanded="true" aria-owns="random5e865596c11d01_group" data-collapsible="false"><a tabindex="-1" id="label_1_1" href="https://moodle.ati.utm.md/">Pagina principală</a></p><ul id="random5e865596c11d01_group" role="group"><li class="type_setting depth_2 item_with_icon" aria-labelledby="label_2_2"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_2_2" href="https://moodle.ati.utm.md/my/"><img class="smallicon navicon" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/navigationitem" /><span class="item-content-wrap">Pagina mea</span></a></p></li><li class="type_course depth_2 contains_branch" aria-labelledby="label_2_3"><p class="tree_item branch" role="treeitem" aria-expanded="false" aria-owns="random5e865596c11d03_group"><span tabindex="-1" id="label_2_3" title="ISA: Suport curricular electronic">Pagini site</span></p><ul id="random5e865596c11d03_group" role="group" aria-hidden="true"><li class="type_custom depth_3 item_with_icon" aria-labelledby="label_3_5"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_3_5" href="https://moodle.ati.utm.md/badges/view.php?type=1"><img class="smallicon navicon" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/navigationitem" /><span class="item-content-wrap">Ecusoane site</span></a></p></li><li class="type_setting depth_3 item_with_icon" aria-labelledby="label_3_6"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_3_6" href="https://moodle.ati.utm.md/tag/search.php"><img class="smallicon navicon" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/navigationitem" /><span class="item-content-wrap">Etichete</span></a></p></li><li class="type_custom depth_3 item_with_icon" aria-labelledby="label_3_7"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_3_7" href="https://moodle.ati.utm.md/calendar/view.php?view=month"><img class="smallicon navicon" alt="" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/core/1578864926/i/navigationitem" /><span class="item-content-wrap">Calendar</span></a></p></li><li class="type_activity depth_3 item_with_icon" aria-labelledby="label_3_8"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_3_8" title="Pagină" href="https://moodle.ati.utm.md/mod/page/view.php?id=29"><img class="smallicon navicon" alt="Pagină" title="Pagină" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/page/1578864926/icon" /><span class="item-content-wrap">Invitație-apel</span></a></p></li><li class="type_activity depth_3 item_with_icon" aria-labelledby="label_3_9"><p class="tree_item hasicon" role="treeitem"><a tabindex="-1" id="label_3_9" title="Forum" href="https://moodle.ati.utm.md/mod/forum/view.php?id=30"><img class="smallicon navicon" alt="Forum" title="Forum" src="https://moodle.ati.utm.md/theme/image.php/_s/aardvark/forum/1578864926/icon" /><span class="item-content-wrap">Noutăți și anunțuri</span></a></p></li></ul></li><li class="type_system depth_2 contains_branch" aria-labelledby="label_2_10"><p class="tree_item branch" role="treeitem" id="expandable_branch_0_mycourses" aria-expanded="false" data-requires-ajax="true" data-loaded="false" data-node-id="expandable_branch_0_mycourses" data-node-key="mycourses" data-node-type="0"><span tabindex="-1" id="label_2_10">Cursurile mele</span></p></li></ul></li></ul></div></div><span class="skip-block-to" id="sb-1"></span></aside>            </div>
+        </div>
+        <aside id="block-region-side-post" class="span3 block-region" data-blockregion="side-post" data-droptarget="1"></aside>    </div>
+</div>
+    <footer id="page-footer">
+       	<div class="row-fluid">
+    	<!-- Widget 1 -->
+    	<div class="span4">
+    		<div id="footer-left" class="block-region">
+    			<div class="region-content">
+       			 <div class="logininfo">Sunteţi autentificat ca <a href="https://moodle.ati.utm.md/user/profile.php?id=3882" title="Vezi profilul">Daniil Lasco</a> (<a href="https://moodle.ati.utm.md/login/logout.php?sesskey=daCBcR5cpW">Ieşire</a>)</div><p class="helplink"></p>        		</div>
+        	</div>
+    	</div>
+
+    	<!-- widget 2 -->
+    	<div class="span4">
+    		<div id="footer-middle" class="block-region">
+    			<div class="region-content">
+                		</div>
+        	</div>
+    	</div>
+
+    	<!-- Widget 3 -->
+    	<div class="span4">
+    		<div id="footer-right" class="block-region">
+    			<div class="region-content">
+				
+
+				       			
+								
+								
+				
+				
+															
+								
+								
+								
+								
+								
+								
+								
+				
+				
+				
+				
+				
+        		</div>
+        	</div>
+    	</div>
+	</div>
+
+	<div class="footerlinks">
+	<p>
+	
+	<a href="http://moodle.org/plugins/view.php?plugin=theme_aardvark">Bazat pe o temă originală creată de Shaun Daubney</a> | <a href="http://moodle.org">moodle.org</a> 
+    	</p>
+    	
+    
+	</div>
+    </footer>
+
+    <script type="text/javascript">
+//<![CDATA[
+var require = {
+    baseUrl : 'https://moodle.ati.utm.md/lib/requirejs.php/1578864926/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://moodle.ati.utm.md/lib/javascript.php/1578864926/lib/jquery/jquery-1.12.1.min',
+        jqueryui: 'https://moodle.ati.utm.md/lib/javascript.php/1578864926/lib/jquery/ui-1.11.4/jquery-ui.min',
+        jqueryprivate: 'https://moodle.ati.utm.md/lib/javascript.php/1578864926/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="https://moodle.ati.utm.md/lib/javascript.php/1578864926/lib/requirejs/require.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+require(['core/first'], function() {
+;
+require(["block_navigation/navblock"], function(amd) { amd.init("1845"); });;
+require(["block_settings/settingsblock"], function(amd) { amd.init("1846", null); });;
+require(["core/notification"], function(amd) { amd.init(15098, []); });;
+require(["core/log"], function(amd) { amd.setConfig({"level":"warn"}); });
+});
+//]]>
+</script>
+<script type="text/javascript" src="https://moodle.ati.utm.md/theme/javascript.php/aardvark/1578864926/footer"></script>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Ultima modificare","name":"Nume","error":"Eroare","info":"Informa\u0163ii","yes":"Da","no":"Nu","viewallcourses":"Vezi toate cursurile","morehelp":"Mai mult ajutor","loadinghelp":"Se \u00eencarc\u0103...","cancel":"Anuleaz\u0103","confirm":"Confirm\u0103 utilizator","areyousure":"E\u0219ti sigur?","closebuttontitle":"\u00cenchide","unknownerror":"Eroare necunoscut\u0103","changesmadereallygoaway":"A\u021bi f\u0103cut modific\u0103ri. Sunte\u021bi sigur c\u0103 dori\u021bi s\u0103 merge\u021bi mai departe \u0219i sa pierde\u021bi modific\u0103rile?"},"repository":{"type":"Tip","size":"Dimensiune","invalidjson":"\u0218ir de caractere JSON invalid","nofilesattached":"Nu exist\u0103 fi\u0219iere ata\u0219ate","filepicker":"Selector de fi\u0219iere","logout":"Ie\u0219ire","nofilesavailable":"Nu sunt fi\u0219iere disponibile","norepositoriesavailable":"Ne pare r\u0103u, niciunul dintre depozitele dumneavoastr\u0103 curente nu pot returna fi\u0219iere \u00een formatul cerut.","fileexistsdialogheader":"Fi\u0219ierul exist\u0103","fileexistsdialog_editor":"Un fi\u0219ier cu acest nume a fost deja ata\u0219at textului pe care \u00eel edita\u021bi","fileexistsdialog_filemanager":"Un fi\u0219ier cu acest nume a fost deja ata\u0219at.","renameto":"Redenumi\u021bi ca \"{$a}\"","referencesexist":"Exist\u0103 {$a} fi\u0219iere alias\/short-uri care folosesc acest fi\u0219ier ca surs\u0103 a lor.","select":"Selectare"},"admin":{"confirmdeletecomments":"Sunte\u021bi pe cale s\u0103 \u0219terge\u021bi comentariile, sunte\u021bi sigur?","confirmation":"Confirmare"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {M.util.load_flowplayer();
+setTimeout("fix_column_widths()", 20);
+M.util.help_popups.setup(Y);
+Y.use("moodle-core-popuphelp",function() {M.core.init_popuphelp();
+});
+M.util.init_skiplink(Y);
+Y.use("moodle-core-formautosubmit",function() {M.core.init_formautosubmit({"selectid":"single_select5e865596c11d012","nothing":false});
+});
+Y.use("moodle-core-actionmenu",function() {M.core.actionmenu.init();
+});
+Y.use("moodle-core-formautosubmit",function() {M.core.init_formautosubmit({"selectid":"single_select5e865596c11d014","nothing":false});
+});
+M.util.init_block_hider(Y, {"id":"inst1845","title":"Meniu principal","preference":"block1845hidden","tooltipVisible":"Ascunde blocul Meniu principal","tooltipHidden":"Arat\u0103 blocul Meniu principal"});
+ M.util.js_pending('random5e865596c11d016'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random5e865596c11d016'); });
+})();
+//]]>
+</script>
+
+
+</body>
+</html>
+
