@@ -1,0 +1,69 @@
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe.config
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.pdb
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csprojAssemblyReference.cache
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.g.cs
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\App.g.cs
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.cache
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.lref
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.baml
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.g.resources
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.Properties.Resources.resources
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.GenerateResource.cache
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CoreCompileInputs.cache
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.exe
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.pdb
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.dll
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.dll
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.dll
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\System.Drawing.Common.dll
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.xml
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.xml
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.xml
+D:\.Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CopyComplete
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe.config
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.pdb
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.dll
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.dll
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.dll
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\System.Drawing.Common.dll
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.xml
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.xml
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.xml
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csprojAssemblyReference.cache
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.g.cs
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\App.g.cs
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.cache
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.lref
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.baml
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.g.resources
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.Properties.Resources.resources
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.GenerateResource.cache
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CoreCompileInputs.cache
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CopyComplete
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.exe
+D:\.Projects\.Visual Studio Projects\Daniil\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.pdb
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe.config
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.exe
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\VideoStreamingServer.pdb
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.dll
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.dll
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.dll
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\System.Drawing.Common.dll
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.xml
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.xml
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\bin\Debug\AForge.Video.DirectShow.xml
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csprojAssemblyReference.cache
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.g.cs
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\App.g.cs
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.cache
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer_MarkupCompile.lref
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\MainWindow.baml
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.g.resources
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.Properties.Resources.resources
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.GenerateResource.cache
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CoreCompileInputs.cache
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.csproj.CopyComplete
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.exe
+D:\BULDUMAC LABS\networkingprogramming\Laboratorul5\VideoStreamingServer\VideoStreamingServer\obj\Debug\VideoStreamingServer.pdb
